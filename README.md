@@ -1,7 +1,7 @@
 # ImageGrid
 Makes a grid of random images from a folder
 
-1. Move this folder to your Desktop (if you know how to use the command line, ignore this)
+1. Move the ImageGrid folder to your Desktop (if you know how to use the command line, ignore this)
 
 -------------------IMPORTANT----------------------------
 Replace the images in the image folder with your images.

@@ -3,9 +3,9 @@ Makes a grid of random images from a folder
 
 1. Move the ImageGrid folder to your Desktop (if you know how to use the command line, ignore this)
 
--------------------IMPORTANT----------------------------
-Replace the images in the image folder with your images.
---------------------------------------------------------
+IMPORTANT
+Replace the images in the image folder with your images. Make sure the image files have no spaces in their names
+------------------------------------------------------------------
 
 2. Open up the Terminal and navigate to the this folder
   "cd Desktop/ImageGrid" without the quotes should work if you followed step 1.
